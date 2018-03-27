@@ -70,6 +70,10 @@ main {
     #arrow {
         bottom: -2% !important;
     }
+    footer p {
+    text-align:center;
+    right:0 !important;
+}
 }
 @media (orientation: landscape) {
     .bmenu li {
