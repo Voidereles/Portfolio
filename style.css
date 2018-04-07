@@ -41,6 +41,13 @@ main {
     display: block;
 }
 
+textarea {
+    border: 1px solid rgba(35, 35, 35, 0.1);
+    border-radius: 2px;
+}
+
+
+
 .office a {
         text-decoration: none;
         color: #675e5a !important;
